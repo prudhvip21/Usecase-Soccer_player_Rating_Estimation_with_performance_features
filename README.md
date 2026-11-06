@@ -15,3 +15,7 @@ Estimate a soccer player rating from performance attributes.
 ## Data
 
 Soccer datasets, included as zip files.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (Soccer_Data-Tale) that differ from the files above.
